@@ -1,4 +1,7 @@
-# test coverage for  [walkdir (v0.0.11)](http://github.com/soldair/node-walkdir)  [![npm package](https://img.shields.io/npm/v/npmtest-walkdir.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-walkdir) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-walkdir.svg)](https://travis-ci.org/npmtest/node-npmtest-walkdir)
+# npmtest-walkdir
+
+#### basic test coverage for  [walkdir (v0.0.11)](http://github.com/soldair/node-walkdir)  [![npm package](https://img.shields.io/npm/v/npmtest-walkdir.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-walkdir) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-walkdir.svg)](https://travis-ci.org/npmtest/node-npmtest-walkdir)
+
 #### Find files simply. Walks a directory tree emitting events based on what it finds. Presents a familiar callback/emitter/a+sync interface. Walk a tree of any depth.
 
 [![NPM](https://nodei.co/npm/walkdir.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/walkdir)
